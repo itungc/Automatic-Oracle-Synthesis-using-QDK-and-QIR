@@ -1,0 +1,8 @@
+.vscode
+build
+test_files/*/bin
+test_files/*/obj
+test_files/*/qir
+.DS_Store
+isbn/bin
+isbn/obj
