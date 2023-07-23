@@ -1,5 +1,4 @@
 cmake_minimum_required(VERSION 3.11)
-set(CMAKE_CXX_COMPILER "/usr/bin/clang++-13")
 project(capstone.oracle-generator)
 include(FetchContent)
 
